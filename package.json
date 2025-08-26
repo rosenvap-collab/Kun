@@ -1,0 +1,14 @@
+{
+  "name": "kun",
+  "version": "1.0.0",
+  "description": "POS menu standardization toolkit",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "npm run build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
